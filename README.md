@@ -1,7 +1,7 @@
 # Order Fullfillment Manager
 
-Inventory created with product objects (SKU, name, price, stock)
-Inventory updated using push, pop, and direct object updates
+Inventory created with product objects (SKU, name, price, stock).
+Inventory updated using push, pop, and direct object updates.
 Orders processed with stock validation and total calculation
 
 Reporting using:
